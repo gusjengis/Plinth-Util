@@ -1,4 +1,4 @@
 /target
-./flake.lock
+flake.lock
 ./Cargo.lock
 
